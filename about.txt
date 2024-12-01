@@ -1,0 +1,11 @@
+sabsa phala hame khouch cheza sikh na hain alag alag
+1) cokie kaisa set karte hai adn read kartae hai 
+2) bcrypt kaisa use kartae han aur password kaise encrypt karte hai aur decrypt karte hai
+3)jwt kaise use karte hai aur token kaise generate karte hai
+4) jwt kaise verify karte hai aur token kaise validate karte hai
+5) jwt kaise refresh karte hai aur token kaise renew karte hai
+
+
+password=(password)
+
+crupted $2b$10$1FWLFpz1EsRQFyax80PnDOabJSZckzIqAbZrbdXo83eKi51ZFQXom
